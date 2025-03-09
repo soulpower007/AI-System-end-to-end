@@ -1,4 +1,3 @@
-This folder is to be used to store the code for your project. 
 
 Screenshots provided for reference.
 - CLEARML: clearml.png
