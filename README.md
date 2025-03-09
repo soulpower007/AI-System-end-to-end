@@ -8,10 +8,6 @@ Screenshots provided for reference.
 - app: app-question1.png app-question2.png app-question3.png
 
 
-Teammates: sb9179, lkd8786
-Github ids: soulpower007, kuxha
-Huggingface ids: skatecode007, kuxha
-
 ## How to run:
  - Local Environment Setup
     - docker file is provided with screenshot however we are using online mongo and qdrant for better collaboration and scalability if required(hypothetical scenario/ benefit) ...this is not required to run the rest of the code.
